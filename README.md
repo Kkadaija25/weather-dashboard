@@ -4,3 +4,4 @@ In this challenge we had to create a weather dashboard from scratch. It mush sho
 ## Deployment Link
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/111911809/214099443-fb7c2d33-bac6-407d-b088-dfcd952327ed.png)
